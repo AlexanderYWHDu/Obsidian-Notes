@@ -1,0 +1,11 @@
+# 系统文件
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Obsidian 工作区缓存（不需要同步）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ── 保留原有白名单逻辑：排除 PDF 大文件 ──────────────
+Matrix Algebra/*.pdf
