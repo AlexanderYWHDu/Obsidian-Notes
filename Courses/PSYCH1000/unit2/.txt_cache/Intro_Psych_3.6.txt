@@ -1,0 +1,199 @@
+MEMORY
+Module 26: Forgetting, Memory Construction, and Improving Memory
+
+Seven sins of memory
+· Sins of omission or forgetting:
+· Transience · Absentmindedness · Blocking
+· 3 sins of commission or distortion:
+· Misattribution · Suggestibility · Bias
+· 1 sin of remembering (also commission):
+· Persistence
+
+Remember that these all fall out of normally adaptive memory functioning!
+
+3 sins of omission or forgetting
+
+(1) Transience: decreasing accessibility of information over time
+Could be decay or interference
+Ebbinghaus's forgetting curve:
+
+Interference
+· Proactive interference (forward-acting): old memory interferes with new memory
+· Writing 2025 as the date in 2026 · The more lists of words you learn, the lower your recall
+Underwood (1957)
+
+Interference
+· Proactive interference (forward-acting): old memory interferes with new memory
+· Writing 2025 as the date in 2026 · The more lists of words you learn, the lower your recall
+· Retroactive Interference: new memory interferes with old memory
+· Fill out rental application for an apartment and have to supply the previous addresses
+
+(2) Absentmindedness: breakdown at the interface of attention and memory
+· Inattentional blindness
+· Change blindness
+
+Yo-Yo Ma forgot to retrieve his $2.5 million cello from the trunk of
+a New York City cab
+
+https://youtu.be/FWSxSQsspiQ
+
+(3) Blocking: temporary inaccessibility of information that is stored in memory (retrieval failure)
+· More information is available than is accessible at any given time
+· Tip of the tongue phenomenon
+· See a person and you can't quite recall their name · Know you know the word but can't come up with it
+"Suppose we try to recall a forgotten name. The state of our consciousness is peculiar. There is a gap therein; but no mere gap. It is a gap that is intensely active. A sort of wraith of the name is in it, beckoning us in a given direction, making us at moments tingle with the sense of our closeness and then letting us sink back without the longed-for term." -William James
+
+3 sins of commission or distortion
+
+(4) Misattribution: attributing a memory or idea to the
+
+wrong source
+· Source memory confusion/misattribution
+· Confusing which friend told you a story · Thinking you came up with a great melody but it was
+something you heard before
+· False memory
+
+bed rest awake tired dream wake snooze blanket
+
+doze slumber
+snore nap peace yawn drowsy
+
+Roediger & McDermott (1995)
+
+Critical word ("sleep") falsely recognized up to 72% of the time!
+
+From Roediger, Balota, & Watson (2001)
+
+(5) Suggestibility: implanted memories that result from suggestion or misinformation
+· Loftus & Palmer (1974) car accident study
+· Suggestive procedures (visualization, social influence) result in false memories for 20-30% of participants
+· E.g., college students false memory of committing a crime as an adolescent
+Jean Piaget, the famous developmental psychologist: One of my first memories would date, if it were true, from my second year. I can still see, most clearly, the following scene, in which I believed until I was about 15. I was sitting in my pram...when a man tried to kidnap me. I was held in by the strap fastened round me while my nurse bravely tried to stand between me and the thief. She received various scratches, and I can still vaguely see those on her face... When I was about 15, my parents received a letter from my former nurse saying that she had been converted to the Salvation Army. She wanted to confess her past faults, and in particular to return the watch she had been given as a reward on this occasion. She had made up the whole story, faking the scratches. I therefore must have heard, as a child, this story, which my parents believed, and projected it into the past in the form of a visual memory."
+
+Loftus & Palmer (1974)
+32% of Ps in the "smashed" condition; 14% of Ps in the "hit" condition
+
+(6) Bias: retrospective distortions produced by current knowledge, beliefs, and feeling
+· Hindsight bias · Top-down influences on memory · People have belief-consistent false memories
+for scandals during Ireland's abortion referendum vote (Murphy et al., 2019)
+
+1 sin of remembering
+
+(7) Persistence: intrusive or pathological remembering of events
+· e.g., the unrelenting, intrusive memories of post-traumatic stress disorder
+
+A recent proposal: verisimilitude ("truth-seeming")
+https://www.ted.com/talks/john_wixted_th e_new_science_of_eyewitness_memory
+
+(8) Verisimilitude: the appearance of fluent, verbatim episodic memories being true
+· Flashbulb memories · In court: recollections at trials are substantive
+evidence, recollections from the initial test are hearsay (and thus irrelevant, not considered)
+Yilmaz et al. (2025)
+
+Eyewitness Memory
+
+As of 2026: 255 overturned convictions for innocent people due to a wrongful conviction
+
+You can see issues of suggestibility, misattribution, verisimilitude
+29% involved false confessions, including with coercive tactics 62% involved eyewitness misidentification
+
+But errors can highlight the adaptive features of the memory system
+· Forgetting:
+· Allows us to make quick judgments · Can base judgments on lingering feelings, incomplete info, gist
+· Construction:
+· Can fill in incomplete information · Can make abstractions · Can organize, condense things into overarching concepts
+· For example: source monitoring issues ­ the content of information is usually more important than the source!
+
+Ok, so how do we improve?
+· Remember you need to trick your mind into thinking the information is (1) important and (2) not going to be accessible for you later
+Desirable difficulties: Training should be hard but not too hard Forgetting can enhance learning
+
+· ~78% of students report using rereading as a major study strategy · Yet rereading by itself is not effective
+"Rereading has three strikes against it. It is time consuming. It doesn't result in durable memory. And it often involves a kind of unwitting self-deception, as growing familiarity with the text comes to feel like mastery of the content. The hours immersed in rereading can seem like due diligence, but the amount of study time is no measure of mastery."
+
+"spacing"
+
+IMPROVING YOUR FALLIBLE MEMORY
+
+· Processing deeply
+"Elaborative encoding"
+
+Is it uppercase?
+
+Does it rhyme with "apple"?
+
+Does it fit in the sentence "We went
+to the ____"?
+
+Cat Table Book
+...
+
+Maintenance: repetition vs.
+Elaborative: elaboration, more detail, connections to other topics or to your life
+
+Proportion of Idea Units Recalled
+
+IMPROVING YOUR FALLIBLE MEMORY
+
+0.90
+
+· Processing deeply
+
+· Testing yourself
+
+0.80
+
+Study, Study Study, Test
+
+0.70
+
+0.60
+
+0.50
+
+Forgetting .16
+
+0.40
+
+00..0300 5 M1in
+Roediger & Karpicke, Experiment 1
+
+2
+
+2 D3ays
+
+4
+
+5
+
+Retention Interval
+
+.35
+6 1 W7eek
+
+IMPROVING YOUR FALLIBLE MEMORY
+· Processing deeply · Testing yourself · Spacing studying
+
+ MASSED
+
+SPACED 
+
+Kornell & Bjork (2008)
+
+E1a
+
+Results showing which
+
+condition they *actually*
+
+did best in
+
+E1b
+
+Which condition participants *think* they will do best in
+
+Kornell & Bjork (2008)
+
+· "Think about how ridiculous it would be to cram in a long weight-lifting session the night before you need strength. Would you expect to be much stronger the next morning? If you had a race to run, could you cram all your running practices in the day before the meet and expect to set your best time? If you really wanted to be stronger or faster, you would practice a bit every day over a certain period. You would also expect practices to make you tired. The same is true for your brain. To build strong areas of knowledge, distributed practice is important." (Doyle & Zakrajsek, 2013)
+
+

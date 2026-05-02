@@ -1,0 +1,269 @@
+INTRO PSYCH
+LEARNING MODULE 21
+
+Learning is the process of acquiring new information or behaviors through experience
+First: classical conditioning, aka "Pavlovian conditioning"
+Back to behaviorism...insistence on measuring only observable, quantifiable behavior; dismissal of mental activity as irrelevant and
+unknowable
+Stimulus Response
+
+Basic Learning Concepts and Classical Conditioning
+· We learn
+· To expect and prepare for significant events (classical conditioning) · To repeat acts that bring rewards, avoid acts that bring unwanted results
+(operant conditioning)
+· We learn new behaviors
+· By observing events and people, and through language · We learn things we have neither experienced nor observed · (cognitive learning)
+
+Associative learning can be very powerful
+
+Pavlov's Classic Experiment
+
+(You can even do higher-order conditioning) +
+
+1. Unconditioned stimulus (US)
+· Stimulus that naturally and automatically triggers unconditioned response (UR)
+2. Unconditioned response (UR)
+· Naturally occurring response to unconditioned stimulus (US)
+3. Neutral stimulus (NS)
+· Stimulus that elicits no response before conditioning
+4. Conditioned stimulus (CS)
+· Originally neutral stimulus that, after association with unconditioned stimulus (US), comes to trigger conditioned response (CR)
+5. Conditioned response (CR)
+· Learned response to previously neutral (but now conditioned) stimulus (CS)
+
+Classical Conditioning: Another Example
+
+Alarm sound
+
+Waking up early
+
+Feeling grumpy
+
+Alarm sound
+
+Feeling grumpy
+
+Try to map on these terms
+1. Unconditioned stimulus (US) 2. Unconditioned response (UR) 3. Neutral stimulus (NS) 4. Conditioned stimulus (CS) 5. Conditioned response (CR)
+Once you finish: think about how you would get rid of (extinguish) this association!
+
+Pavlov's later work on conditioning
+
+Acquisition Initial stage, when association is presented repeatedly so that NS begins triggering CR
+
+Extinction Diminishing of conditioned response, occurs
+
+when US does not follow CS Acquisition works best when:
+
+Spontaneous recovery
+
+Reappearance, CR
+
+after
+
+a
+
+pause,
+
+of
+
+--eNNxtSSinipgsruecisclohesededesintthime eUSto
+
+US
+
+-There are many pairings (instances
+
+Generalization
+
+Tendency, once conditioned, for
+
+sretismpuolni lsikeehCasSbtoeoeefnlitchitesaimssilaorciation)
+
+responses
+
+Discrimination Learned ability to distinguish between CS and other irrelevant stimuli
+
+Pavlov's later work on conditioning
+
+Acquisition Initial stage, when one links NS and US so that neutral stimulus begins triggering CR
+
+Extinction Diminishing of conditioned response, occurs when US does not follow CS
+
+Spontaneous recovery
+
+Reappearance, after a pause, of extinguished CR
+
+Tendency, once response has been
+
+Generalization conditioned, for stimuli like CS to elicit similaBrut extinction doesn't necessarily
+
+responses
+
+destroy the initial learning...
+
+Discrimination Learned ability to distinguish between CS and other irrelevant stimuli
+
+Pavlov's later work on conditioning
+
+Acquisition Initial stage, when one links NS and US so that neutral stimulus begins triggering CR
+
+Extinction Diminishing of conditioned response, occurs when US does not follow CS
+
+Spontaneous recovery
+
+Reappearance, after a pause, of extinguished CR
+
+Tendency, once response has been Generalization conditioned, for stimuli like CS to elicit similar
+responses
+
+Discrimination Learned ability to distinguish between CS and other irrelevant stimuli
+
+Back to the example
+
+Alarm sound
+
+Waking up early
+
+Alarm sound
+
+Feeling grumpy
+
+Feeling grumpy
+What would acquisition, extinction, spontaneous recovery look like in this
+example?
+
+Little Albert conditioning study
+· Watson and Rayner demonstrated that emotional reactions could be conditioned in humans
+https://youtu.be/JLIgPAzUa9Y
+
+Pavlov's later work on conditioning
+
+Acquisition Extinction
+
+Initial stage, when one links NS and US so that
+
+neutral stimulus begins triggering CR
+
+Original
+
+Generalization:
+
+stimulus:
+
+Another
+
+Diminishing of condAliatrimoned response, occuarslarm
+
+when US does notsfooulnldow CS
+
+sound?
+
+Spontaneous recovery
+
+Reappearance, after a pause, of extinguished CR
+
+Tendency, once response has been Generalization conditioned, for stimuli like CS to elicit similar
+responses
+
+Discrimination Learned ability to distinguish between CS and other irrelevant stimuli
+
+Little Albert hates bunnies!
+
+Generalization
+
+Pavlov's later work on conditioning
+
+Acquisition Extinction
+
+Initial stage, when one links NS and US so that
+
+neutral stimulus begins triggering CR
+
+Original
+
+Generalization:
+
+stimulus:
+
+Another
+
+Diminishing of condAliatrimoned response, occuarslarm
+
+when US does notsfooulnldow CS
+
+sound?
+
+Spontaneous recovery
+
+Reappearance, after a pause, of extinguished CR
+
+Tendency, once response has been Generalization conditioned, for stimuli like CS to elicit similar
+responses
+
+Discrimination: No, this alarm sound is for my timed workout
+sets at the gym (no CR)
+
+Discrimination Learned ability to distinguish between CS and other irrelevant stimuli
+
+Pavlov's later work on conditioning
+
+Acquisition Initial stage, when association is presented repeatedly so that NS begins triggering CR
+
+Extinction Diminishing of conditioned response, occurs when US does not follow CS
+
+Spontaneous recovery
+
+Reappearance, after a pause, of extinguished CR
+
+Tendency, once response has been Generalization conditioned, for stimuli like CS to elicit similar
+responses
+
+Discrimination Learned ability to distinguish between CS and other irrelevant stimuli
+
+Try another example: kids undergoing chemotherapy often have taste aversions (nauseous feeling) to the food they are given before getting the chemo (e.g., ice cream from hospital cafeteria)
+(or think of your own)
+
+___________
+
+___________
+
+___________
+
+___________
+
+___________
+
+___________
+
+___________
+
+(Some constraints on acquisition discovered by later researchers)
+
+But remember I said acquisition works best when: · NS precedes the US · NS is close in time to US · There are many pairings (trials) Which does this violate?
+
+Taste Sight Sound
+
+Drug Only one pairing! Drug
+
+Nausea
+Several hours elapse!
+
+Nausea
+
+Only taste!
+
+Nausea
+
+"Conditioned taste aversion"
+
+Also, there are certain pairings that are easier to make than others...
+· Easier for mammals to learn:
+· Novel taste NS + nausea CR · Flash of light NS + electric shock CR
+· Harder for mammals to learn:
+· Novel taste NS + electric shock CR · Flash of light NS + nausea CR
+· "Diet scapegoat" in kids undergoing chemotherapy
+· Weakening the sweet taste-calorie association w/no-cal sweeteners
+
+Reminder: assignment 3 due tonight
+
+

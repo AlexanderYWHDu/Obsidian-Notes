@@ -1,0 +1,152 @@
+MEMORY
+Module 25: Storage & Retrieval
+Patient HM's brain Missing hippocampal areas in (a) and (b)
+
+Information processing model of memory
+
+Duration Capacity
+Content
+
+Sensory memory
+
+Working/ST memory Long-term memory store
+
+Milliseconds or seconds
+
+20-30 sec unless rehearsed
+
+Years
+
+Large
+
+A few "chunks"
+
+Very large
+
+Small buffer that holds sensory info just a bit longer than the stimulus
+
+Active mental workspace for incoming info from sensory
+memory and older info retrieved from LTM
+
+Relatively permanent and limitless archive of knowledge,
+skills, experiences
+
+First, word rating demo
+
+Memory Encoding
+
+Levels of processing: how we initially encode the information matters a lot!
+
+(matters even more than intending to remember)
+
+"Deeper" processing = focusing more on meaning/semantics
+
+Shallow
+
+Deep
+
+What is the fate of info as it is processed in the memory model? One hint: the serial position curve
+
+100
+
+# students with correct recall
+
+90
+
+80
+
+70 60 Primacy Effect
+(long-term 50 memory) 40
+
+Recency Effect (working memory)
+
+30
+
+20
+
+10
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Serial Position
+
+Delayed test or immediate counting task: only primacy effect
+
+Memory Storage
+
+Memory Storage
+Consolidation while we sleep · Hippocampus holds the event file · Then transfers it to the cortex for storage
+International society for the experimental study of cognition. Since it was formed over 60 years ago, the Society has grown to over 4,300 cognitive psychologists.
+
+These can co-occur
+
+Memory Storage
+
+We can use these implicit memories without being able to articulate them
+
+All kinds of memory, particularly emotional
+
++ priming Activation of associations in memory (typically, unconscious and implicit)
+
+Memory Storage
+
+The amygdala boosts memory processing during emotional or stressful times Flashbulb memories: a vivid memory of an emotionally significant moment or event We *think* they stay highly accurate... but they are subject to forgetting just like any other memory
+
+How do we know that memory storage has different subcomponents?
+Case studies show selective deficits of one type of memory and not another
+HM and Clive Wearing both had hippocampal damage, severe anterograde amnesia
+· Had trouble transferring WM  LTM · Could do a working memory task almost normally, but would not remember he
+had done it after a break · Implicit memory seemed intact
+
+https://youtu.be/c62C_yTUyVg
+
+Severe anterograde amnesia patients can still have relatively intact procedural learning
+
+Memory Retrieval
+Encoding specificity principle
+The more closely the retrieval cues match encoding cues, the better the information will be remembered
+
+Endel Tulving
+
+Memory Retrieval
+· Context-dependent memory · State-dependent memory
+
+Context-dependent retrieval includes the external environment as well as our internal environment (statedependent; mood-congruent memory)
+
+Human memory is not like a video recorder Information undergoes systematic changes as it is processed We reconstruct the past ­ it is more like an artist's rendering than a
+faithful objective representation
+
+Forgetting sucks. But might it be adaptive?
+"It can be very hard to forget embarrassing moments. You feel the same emotions ­ it is just as raw, just as fresh... You can't turn off that stream of memories, no matter how hard you try."
+"It is like having these open wounds ­ they are just a part of you."
+
+Information processing model of memory
+
+Some info is lost
+
+Some info is lost
+
+Forgetting is adaptive!
+
+If it makes it here, it may not be lost ­ but inaccessible without
+the proper cue
+
+Next class: forgetting and remembering
+
+

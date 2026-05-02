@@ -1,0 +1,41 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "02. Knowledge/01. Paper",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "论文主页",
+      "outputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/{{date|format(\"YY\")}}-{{title}}-Metadata.md",
+      "imageOutputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/image",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Template/Zotero Metadata 模版.md"
+    },
+    {
+      "name": "论文粗读",
+      "outputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/Skim_Note-{{citekey|replace(\":\",\"-\")}}.md",
+      "imageOutputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/image",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Template/Zotero Skim模板.md"
+    },
+    {
+      "name": "论文精读",
+      "outputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/Read_Note-{{citekey|replace(\":\",\"-\")}}.md",
+      "imageOutputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/image",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Template/Zotero Read模板.md"
+    },
+    {
+      "name": "论文英语表达导入",
+      "outputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/English-{{citekey|replace(\":\",\"-\")}}.md",
+      "imageOutputPathTemplate": "02. Knowledge/01. Paper/{{date|format(\"YY\")}}-{{title}}/image",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Template/Zotero 论文单词模版.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

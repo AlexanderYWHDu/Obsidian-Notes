@@ -1,0 +1,90 @@
+INTRO PSYCH
+Learning Module 22-23
+"Pigeon, rat, monkey, which is which? It doesn't matter.... Behavior shows astonishingly similar properties." ­Skinner, 1956
+
+Classically conditioning Blue the dog
+
+Operant conditioning
+· Shaping his behavior · Positive reinforcement with clicker to successive approximations of the desired
+behavior
+· Immediate, consistent reinforcement
+· This creates faster learning (but potentially quicker extinction of the behavior when you remove the reinforcer)
+
+Let's take an example and map out the full matrix
+
+Increases behavior
+Good study habit
+Decreases behavior
+Bad study habit
+
+Present something
+Positive reinforcement
+· Pleasant stimulus
+Get yourself a bubble tea for putting away your phone, computer on DND
+Lil snacky after every hour of focused studying
+Positive punishment
+· Unpleasant stimulus
+Snap a rubber band on your wrist every time you look at your phone
+
+Remove something
+Negative reinforcement
+· Unpleasant stimulus · Negative reinforcement provides relief,
+so you do more of that behavior
+Studying with too many layers on, allowing yourself to take one off every hour of focused studying
+(Aversive final is removed from your class experience if you do well on first 3 exams?)
+Negative punishment
+· Pleasant stimulus · Taken away if you engage in the
+behavior
+Delete an app you like every time you look at your phone
+Take 10 mins off your later social time for every study interruption
+
+More caveats on operant conditioning: punishment
+· Punishment can be tricky
+· Punished behavior seems to be suppressed not forgotten · And only suppressed in certain situations! (teaches discrimination among
+situations) · Punishment can teach fear of the punisher, inhibit learning new/better responses · Physical punishment may model violence (more on this soon) · Physical punishment may reduce the behavior, but what springs up in its place?
+Punishment tells you what not to do; reinforcement tells you what to do
+
+More caveats on operant conditioning: reinforcement
+· The timing and schedule of the reinforcer matter
+· Delayed vs. immediate · Continuous vs. partial (intermittent)
+· Lots of flavors of intermittent but just know it gets you better results that continuous (more persistent learning; harder to extinguish)
+· I give myself a little snacky SOMETIMES after an hour of studying
+
+Comparing classical vs. operant conditioning
+
+CLASSICAL CONDITIONING
+
+OPERANT CONDITIONING
+
+· Involuntary, reflexive behavior
+
+· Voluntary behavior
+
+· Association between one stimulus and · Association between behavior & another stimulus before the response what comes after (consequence)
+
+· Old responses to new stimuli
+
+· New behaviors
+
+Comparing classical vs. operant conditioning
+
+CLASSICAL CONDITIONING
+
+OPERANT CONDITIONING
+
+Caveats on conditioning, broadly
+· Behaviorists probably underestimated the role of biological constraints (remember preparedness?)
+· And the role of cognition and mental processes
+· "Latent learning"
+
+Furthermore, we can learn through observation
+· Observational learning (social learning) · Modeling: the process of observing
+and imitating a specific behavior
+· Vicarious reinforcement and vicarious punishment
+https://youtu.be/dmBqwWlJg8U
+
+Bandura et al., 1963
+
+Kids show more aggression after they see an adult model demonstrate aggression
+
+

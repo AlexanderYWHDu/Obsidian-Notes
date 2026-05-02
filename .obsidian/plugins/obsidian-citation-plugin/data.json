@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Public/Papers",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\ncitekey: \"{{citekey}}\"\nyear: {{year}}\nauthors: \"{{authorString}}\"\njournal: \"{{containerTitle}}\"\ndoi: \"{{DOI}}\"\nurl: \"{{URL}}\"\ncategory:\ntags:\n  - paper\nzotero: \"zotero://select/items/@{{citekey}}\"\npdf:\nstatus: unread\nrating:\ndate_added: {{importedDate}}\n---\n\n# {{title}}\n\n**Authors**: {{authorString}}\n**Year**: {{year}}\n**Journal/Source**: {{containerTitle}}\n**Category**:\n\n> [!abstract] Abstract\n> {{abstract}}\n\n---\n\n## 📌 Research Question\n\n> What problem is this paper trying to solve?\n\n## 💡 Main Arguments / Contributions\n\n-\n\n## 🔬 Methods\n\n> Research design, data sources, analytical approach\n\n## 📊 Key Findings\n\n-\n\n## 🔗 Related Literature\n\n| Relation | Paper | Notes |\n|----------|-------|-------|\n| Supports | [[]] | |\n| Challenges | [[]] | |\n| Extends | [[]] | |\n\n## 💬 Annotations & Notes\n\n> [!note] Personal Assessment\n>\n\n### PDF Highlights\n\n>\n\n---\n\n**Zotero link**: [Open in Zotero](zotero://select/items/@{{citekey}})\n\n---\n*[[Public/Papers/00_Papers Index|← Back to Paper Library]]*\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "Public/Papers/My Library.bib"
+}

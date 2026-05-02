@@ -1,0 +1,35 @@
+# ── 独立同步到 Obsidian-Personal（私有）──
+Daily/
+
+# ── 旧仓库目录（内容已迁移，待手动删除）──
+Personal/
+Public/
+
+# ── 大型二进制文件 ──
+*.pdf
+*.PDF
+*.epub
+*.zip
+*.mp4
+*.mp3
+
+# ── Obsidian 本地工作区状态（设备特定，不同步）──
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ── 插件编译代码（含第三方密钥，不应进公开仓库；只同步 data.json 和 manifest.json）──
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/askpass.sh
+.obsidian/plugins/*/*.sh
+
+# ── PDF 文字缓存（自动生成，不需要同步）──
+.txt_cache/
+
+# ── Claude Code 会话历史（私密，不同步）──
+.claude/sessions/
+
+# ── 系统文件 ──
+desktop.ini
+.DS_Store
+Thumbs.db

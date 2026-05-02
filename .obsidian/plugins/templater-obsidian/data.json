@@ -1,0 +1,66 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Daily",
+      "template": "Template/Daily Note.md"
+    },
+    {
+      "folder": "Weekly",
+      "template": "Template/Weekly Note.md"
+    },
+    {
+      "folder": "Monthly",
+      "template": "Template/Monthly Note.md"
+    },
+    {
+      "folder": "Quarterly",
+      "template": "Template/Quarterly Note.md"
+    },
+    {
+      "folder": "Yearly",
+      "template": "Template/Yearly Note.md"
+    },
+    {
+      "folder": "Knowledge",
+      "template": "Template/知识卡片模板.md"
+    },
+    {
+      "folder": "Fleeting",
+      "template": "Template/Idea记录模版.md"
+    },
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

@@ -1,0 +1,177 @@
+MEMORY
+Module 24
+
+Polleverywhere.com/ecs
+
+Where we've come from...learning
+Where we're heading now...memory
+· Memory is learning that persists over time (encoding, storage, retrieval) · Today: encoding of memories
+
+Measuring memory
+· Recall · Recognition · Relearning
+
+Ebbinghaus's relearning results:
+
+Information-processing model of memory
+Sensory memory Working/ST memory Long-term memory store
+Duration Capacity Content
+
+· Sensory memory: the immediate, very brief recording of sensory information in the memory system
+· Persistence following transduction
+
+Sperling's whole report
+
+· Conclusion: capacity is about 4.5 items
+· But participants reported seeing more!
+· Alternative explanation: all letters were perceived, but forgetting was too fast; it decayed while reporting
+
+Sperling's whole & partial report
+
+· With the partial report and immediate tone cue, participants remembered
+
+· 100% of a 3 x 3 array · 75% of a 3 x 4 array
+· So, which is right?
+
+Capacity is about 4.5 items
+
+Capacity is greater than 4.5 but forgetting happened while reporting the numbers
+
+Duration Capacity Content
+
+Sensory memory
+Milliseconds or seconds
+Large Buffer that holds sensory info
+just a bit longer than the stimulus
+
+· "The two-track mind" (conscious and unconscious parallel processing of info)
+· Selective attention: we consciously attend to and process a very limited portion of incoming information
+· Unconscious processing: much of the info can also be processed outside our awareness
+
+The initial concept of short-term memory...
+· Miller, 1956: "Magical number 7±2" · Buffer/holding place for info from sensory memory
+Find your simple short-term memory span! I will read you numbers. After a short delay, I will tell you recall,
+write down the sequence I told you.
+Find your complex working memory span! Write down T/F to indicate whether the following equations are
+true or false. ALSO: remember the second number in each equation When you see "recall" write down the whole string of numbers
+
+Score yourself:
+Did the two types of tasks feel different? Was your performance different on them? What do you think characterizes working memory (versus
+short-term memory)?
+
+The newer idea: WORKING MEMORY
+
+Simple span task: storage
+
+SHORT-TERM MEMORY
+
+Complex span task: storage + manipulation
+
+WORKING MEMORY
+
+· Working memory: a newer understanding of short-term memory; conscious, active processing of both (1) incoming sensory information and (2) information retrieved from long-term memory.
+
+What is the duration of STM/WM?
+· Without rehearsal, the info is quite transient (< 30s)
+
+What is the capacity of STM/WM?
+· Miller, 1956: "Magical number 7±2 items" · What is an item?
+· A "CHUNK"
+monkey child wildly zoo jumped city ringtail young
+And how many *chunks* can we keep in STM/WM? Maybe fewer than 7±2...just a few, or one?
+
+Chunking in chess
+
+How many chess pieces could you remember on a board? Might depend on your proficiency level...
+
+Chunking in chess
+Master Advanced Beginner
+
+Chase & Simon (1973)
+
+Advanced
+
+Beginner
+
+Master
+
+Chunking might be nearly unlimited...memory competitors!
+12.74 seconds, Shijir-Erdene Bat-Enkh iam-memory.org; https://youtu.be/OApSOU7NIAw
+
+Chunking (+ mnemonics) might be nearly unlimited...
+· Based on the method of loci · Mentally place objects along a path you're familiar with
+· E.g., your body, your home · Picture the pathway from the front door to your bedroom
+
+· Scaling this up for memory competitors...
+· PAO: Person ­ Action ­ Object: In this system every two-digit number from 00 to 99 is processed into a single image of a person performing an action on an object
+· 14: Taylor Swift ­ singing ­ microphone · 15: Lionel Messi ­ kicking ­ soccer ball · 92: Superman ­ flying ­ cape
+
+· 6 digits of pi: 3.14159265359
+
+HOLY CHUNKING!
+
+· Turn this into a single image, place it in the first place of your memory palace
+
+Duration Capacity
+Content
+
+Sensory memory
+
+Working/ST memory Long-term memory store
+
+Milliseconds or seconds
+
+20-30 sec unless rehearsed
+
+Years
+
+Large
+
+A few "chunks"
+
+Very large
+
+Small buffer that holds sensory info just a bit longer than the stimulus
+
+Active mental workspace for incoming info from sensory
+memory and older info retrieved from LTM
+
+Relatively permanent and limitless archive of knowledge,
+skills, experiences
+
+What makes it into long-term memory?
+
+· Relatively permanent and probably limitless archive of the memory system; includes knowledge, skills, experiences
+Own cues Another
+person's cues Guess target,
+using cues
+
+Bahrick, Bahrick, & Witlinger (1975)
+
+Duration Capacity
+Content
+
+Sensory memory
+
+Working/ST memory Long-term memory store
+
+Milliseconds or seconds
+
+20-30 sec unless rehearsed
+
+Years
+
+Large
+
+A few "chunks"
+
+Very large
+
+Small buffer that holds sensory info just a bit longer than the stimulus
+
+Active mental workspace for incoming info from sensory
+memory and older info retrieved from LTM
+
+Relatively permanent and limitless archive of knowledge,
+skills, experiences
+
+

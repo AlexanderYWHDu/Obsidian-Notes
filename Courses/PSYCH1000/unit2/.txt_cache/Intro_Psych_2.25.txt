@@ -1,0 +1,286 @@
+INTRO PSYCH
+Learning Module 22
+
+1. Unconditioned stimulus (US)
+· Stimulus that naturally and automatically triggers unconditioned response (UR)
+2. Unconditioned response (UR)
+· Naturally occurring response to unconditioned stimulus (US)
+3. Neutral stimulus (NS)
+· Stimulus that elicits no response before conditioning
+4. Conditioned stimulus (CS)
+· Originally neutral stimulus that, after association with unconditioned stimulus (US), comes to trigger conditioned response (CR)
+5. Conditioned response (CR)
+· Learned response to previously neutral (but now conditioned) stimulus (CS)
+
+Classical conditioning
+Little Albert fear conditioning
+
+Loud noise
+
+Fear behavior
+
+White rat
+
+Loud noise
+
+Fear behavior
+
+White rat
+
+Fear behavior
+
+How to classically condition yourself
+· Step 1: Choose a naturally arising response
+· Should be strong & consistent
+· US  UR (lemonade powder + salivating is a good one)
+· Step 2: Identify a neutral stimuli
+· One that does not produce UR ­ a specific song you don't already have a strong reaction to?
+· Step 3: Pair the neutral stimulus with the US for many trials (acquisition)
+
+· Test:
+Neutral stimulus
+
+Produces the response (Learning!)
+
+Does not produce the
+response
+
+(No learning!)
+
+Classical conditioning
+kids undergoing chemotherapy often have taste aversions
+(nauseous feeling) to the food they are given before
+getting the chemo (e.g., ice cream from hospital cafeteria)
+
+Drug
+
+Ice cream
+
+Drug
+
+Ice cream
+
+Nausea
+
+Nausea
+
+Nausea
+"Conditioned taste aversion"
+
+But some constraints on acquisition discovered by later researchers
+
+Remember I said acquisition works best when: · NS precedes the US · NS is close in time to US · There are many pairings (trials) Which does this violate?
+
+Taste Sight Sound
+
+Drug Only one pairing! Drug
+Only taste!
+
+Nausea
+Several hours elapse!
+
+Nausea
+
+Nausea
+
+"Conditioned taste aversion"
+-happens to the tastes, not the music
+or sights nearby!
+
+Also, there are certain pairings that are easier to make than others...
+· "Diet scapegoat" in kids undergoing chemotherapy · Easier for mammals to learn:
+· Novel taste NS + nausea CR · Flash of light NS + electric shock CR
+· Harder for mammals to learn:
+· Novel taste NS + electric shock CR · Flash of light NS + nausea CR
+
+Preparedness: an animal's capacity for conditioning is limited by biological constraints
+
+­ for mammals, taste is a good signal of safety to eat
+
+(on the other hand - birds use sight) So, taste/sickness easy to associate
+
+These are pretty amazing applications (see book descriptions for using conditioned taste
+aversions or de-conditioning associations)
+
+Why does classical conditioning represent learned behavior? Where exactly is the learning part?
+
+Basic Learning Concepts
+We learn
+· To expect and prepare for significant events (classical conditioning)
+· We associate stimuli that we do not control, and respond automatically
+· To repeat acts that bring rewards, avoid acts that bring unwanted results (operant conditioning)
+· Choice in responding, to elicit a reinforcement or punishment
+
+Operant Conditioning: An Example
+Rewarded behavior tends to recur
+
+Operant conditioning chamber (aka "Skinner box")
+Operant conditioning occurs when the subject's voluntary behavior (not an automatic stimulus  response) is associated with the occurrence of a significant event
+
+Operant conditioning has 2 separate components
+
+and the full combination matrix Memorize these terms because they do not mean the
+
+· Consequences of the behavior:
+
+same thing as day-to-day use
+
+· Reinforcement strengthens the behavior (increases its frequency; makes it more likely to occur) · Punishment weakens the behavior (decreases its frequency; makes it less like to occur)
+
+· The stimulus:
+· Positive (present a stimulus, positive = add/apply) · Negative (remove a stimulus, negative = remove/subtract)
+
+Present something
+
+Increases
+
+Positive
+
+behavior reinforcement
+
+Remove something
+Negative reinforcement
+
+Decreases
+
+Positive
+
+behavior punishment
+
+Negative punishment
+
+Skinner believed consequences were the most important
+determinant of future behavior
+
+Operant conditioning matrix
+
+Present something
+Positive reinforcement
+
+Increases behavior
+
+Remove something
+Negative reinforcement
+
+Positive punishment
+Decreases behavior
+
+Negative punishment
+
+· Increases likelihood of a behavior by presenting a pleasant stimulus after the behavior occurs
+
+After every hour of studying  give yourself a little treat  increase studying behavior!
+· Reinforcers vary by animal but can include praise, attention, food, water, money
+· Shaping: gradually guiding the behavior to the desired behavior
+· Successive approximations: getting closer to that behavior, step by step
+
+Present something
+
+Increases
+
+Positive
+
+behavior reinforcement
+
+Decreases behavior
+
+Positive punishment
+
+Remove something
+Negative reinforcement
+Negative punishment
+
+· Positive reinforcement is very strong · Superstitions...
+
+Present something
+
+Increases
+
+Positive
+
+behavior reinforcement
+
+Remove something
+Negative reinforcement
+
+Decreases behavior
+
+Positive punishment
+
+Negative punishment
+
+· Decreases the probability of a behavior by adding an unpleasant stimulus after the behavior occurs
+· Driving too fast  get speeding ticket  less speeding behavior
+
+Present something
+
+Increases
+
+Positive
+
+behavior reinforcement
+
+Remove something
+Negative reinforcement
+
+Decreases behavior
+
+Positive punishment
+
+Negative punishment
+
+· Increases likelihood of a behavior by removing an unpleasant stimulus after the behavior occurs
+· Car beeping  put on a seat belt to stop the obnoxious beeping  leads to more seatbelt use
+· Engage in compulsive behavior in OCD  relieves the obsession feeling  leads to more compulsive behavior
+
+Present something
+
+Increases
+
+Positive
+
+behavior reinforcement
+
+Remove something
+Negative reinforcement
+
+Decreases behavior
+
+Positive punishment
+
+Negative punishment
+
+· Decreases the probability of a behavior by taking away a pleasant stimulus
+· Kid hits sibling  take away their ipad  less hitting
+
+Present something
+
+Increases
+
+Positive
+
+behavior reinforcement
+
+Remove something
+Negative reinforcement
+
+Decreases behavior
+
+Positive punishment
+
+Negative punishment
+
+More practice: take an example and map out positive reinforcement and punishment
+Present something
+Positive reinforcement
+Increases behavior
+Good study habit
+Positive punishment
+Decreases behavior
+Bad study habit
+
+Remove something
+Negative reinforcement
+Negative punishment
+
+
